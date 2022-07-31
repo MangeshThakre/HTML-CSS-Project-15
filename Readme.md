@@ -3,7 +3,7 @@
 # Product Design Landing Page
 > HTML - CSS Project-15
 
-🙌 hey There I'm mangesh Thakre Wed Developer 
+🙌 hey There I'm mangesh Thakre Web Developer 
 ##  What I've learnd form this project 
 
  I have used flex box in this project for makeing the card container responsive
